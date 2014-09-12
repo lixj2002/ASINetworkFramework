@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ASINetworkFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ASINetworkFrameworkTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>UniversalFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8965A24C19C2E6C9006DC110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8965A26019C2E6C9006DC110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8965A2E419C319BD006DC110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8965A2E819C31AF5006DC110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
